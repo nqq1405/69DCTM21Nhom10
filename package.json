@@ -4,10 +4,6 @@
   "description": "NodeBB Forum",
   "version": "1.16.2",
   "homepage": "http://www.nodebb.org",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/NodeBB/NodeBB/"
-  },
   "main": "app.js",
   "scripts": {
     "start": "node loader.js",
